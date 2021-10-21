@@ -2,7 +2,7 @@
 提取图片主色调
 
 
-[ImgMainColor Demos](https://whoiam2007s.github.io/ImgMainColor/demos.html)
+[Demos](https://sr2844096981.github.io/dist/avgcolor/upload.html)
 
 
 ## 传入参数
